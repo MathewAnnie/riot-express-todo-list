@@ -1,6 +1,3 @@
-//ec2-3-17-69-116.us-east-2.compute.amazonaws.com:~/
-
-
 var cmd = require('node-cmd');
 var path, node_ssh, ssh, fs;
 fs = require('fs');
